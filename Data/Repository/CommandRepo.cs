@@ -20,7 +20,6 @@ namespace backendapi.Data.Repository
             if (cmd == null) throw new ArgumentNullException(nameof(cmd));
 
             await _context.Commands.AddAsync(cmd);
-
         }
 
         public async Task DeleteCommand(int id)

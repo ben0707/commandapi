@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "XfRW/mnVPF9g8l0Vu1IxJQQYql951bKPwepoPNlwZK6OSpDPyD+jnd2G9l5F1EwOzSQD5+jXVGXG4cy1MnJbJA==",
+  "dgSpecHash": "5jSCCMH1EKk=",
   "success": true,
   "projectFilePath": "/Users/btech/Desktop/My Projects/Learning/Dotnetapp/backendapi/backendapi.csproj",
   "expectedPackageFiles": [
@@ -107,7 +107,10 @@
     "/Users/btech/.nuget/packages/system.xml.readerwriter/4.3.0/system.xml.readerwriter.4.3.0.nupkg.sha512",
     "/Users/btech/.nuget/packages/system.xml.xdocument/4.3.0/system.xml.xdocument.4.3.0.nupkg.sha512",
     "/Users/btech/.nuget/packages/system.xml.xmldocument/4.3.0/system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "/Users/btech/.nuget/packages/system.xml.xmlserializer/4.3.0/system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "/Users/btech/.nuget/packages/system.xml.xmlserializer/4.3.0/system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "/Users/btech/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/btech/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/btech/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
   ],
   "logs": []
 }
